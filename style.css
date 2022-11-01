@@ -1,3 +1,20 @@
 h1 {
   color: blueviolet;
 }
+
+#my-rect {
+  fill: blue;
+}
+
+#my-rect2 {
+  fill: transparent;
+  stroke: red;
+}
+
+.svg-symbol {
+  display: none;
+}
+
+#my-sym-rect {
+  fill: greenyellow;
+}
